@@ -1,6 +1,6 @@
 # nginx.GitHub.io
 
-GO(https://hong-chen-0.github.io/nginx.GitHub.io/)
+View the page[GO](https://hong-chen-0.github.io/nginx.GitHub.io/)
 
 nginx说明
 
